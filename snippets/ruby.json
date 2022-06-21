@@ -234,13 +234,6 @@
 			"end"
 		]
 	},
-	"Insert curly braces block": {
-		"prefix": [
-			"{p",
-			"{P"
-		],
-		"body": "{ ${1:|${2:variable}| }$0 "
-	},
   "Insert encoding comment": {
     "prefix": "enc",
     "body": "# encoding: utf-8$0"
